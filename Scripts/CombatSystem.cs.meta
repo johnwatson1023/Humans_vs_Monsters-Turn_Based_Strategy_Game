@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 08a291c3a1aed164ab194a5b0c22820d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackerUnit: {instanceID: 0}
+  - defenderUnit: {instanceID: 0}
+  - human1: {fileID: 9192279442633547560, guid: 6b7673f4cb70d824daf48444c1cd61be, type: 3}
+  - human2: {fileID: 4705342568094720778, guid: ab7794abf422d5548b23ae86657e103d, type: 3}
+  - human3: {fileID: 8473652934225455853, guid: d83ac85fa6fafb543b18dc05580399b7, type: 3}
+  - human4: {fileID: 4594543718437821627, guid: f934a1f4a53e45144b100114cba266de, type: 3}
+  - human5: {fileID: 5075855295257512817, guid: 2b6bffeac7cfdf8438300cb551a33b38, type: 3}
+  - human6: {fileID: 5908925769523969335, guid: 7a657c8cb4fe2c6488b9807f40de4347, type: 3}
+  - human7: {fileID: 5004420987289299266, guid: fd11bbd94ceae244db7b8bff3c1a169a, type: 3}
+  - human8: {fileID: 6957644864582002393, guid: f9bcbdaa0b881154e9cb9121636eb00d, type: 3}
+  - human9: {fileID: 7294240087579565263, guid: 520961bfa032c1d418b2a0a154974a00, type: 3}
+  - human10: {fileID: 2770899713950698413, guid: 38543ec6c8bc8e64e8aced2f8b5bf4f1, type: 3}
+  - monster1: {fileID: 1047149831160253331, guid: bdc44f2899859b841b5171748e158c96, type: 3}
+  - monster2: {fileID: 803920801931344865, guid: b7b4853107bd5164fbbb9faa13d91492, type: 3}
+  - monster3: {fileID: 2977688215419000179, guid: f17da048004691a4cbf1f839e404009c, type: 3}
+  - monster4: {fileID: 6132169189880529422, guid: 171d92fd546ee264886d858d9bfdd0fc, type: 3}
+  - monster5: {fileID: 2401877301175089289, guid: 8131d8651d5a4494ab3d9967d9edbaa7, type: 3}
+  - monster6: {fileID: 7936602065169756001, guid: a3300a6eca618e343bb3a76cff90c1a2, type: 3}
+  - monster7: {fileID: 1923646348787840372, guid: 3bbd1b70987f1aa4ba693282b12783a9, type: 3}
+  - monster8: {fileID: 7478761086755805411, guid: 6494124f00baf9a498ab387fbcc05c3d, type: 3}
+  - monster9: {fileID: 445150728463635000, guid: 3473b35026436eb47bbd9f14bb02badf, type: 3}
+  - monster10: {fileID: 655009313377899095, guid: b09104471ddd4a1409054090d23f145a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
