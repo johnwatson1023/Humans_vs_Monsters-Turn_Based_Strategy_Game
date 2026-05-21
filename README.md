@@ -5,10 +5,12 @@ Features
 - Mouse-based unit movement
 - Math-based combat system
 - Currency and units management
+  
 
 This is my first project I've built in my freetime before university.
 I implemented a combat system that takes difference of two units' power, add a random modifier of few powers to include slight randomness, and transform the victorious unit to a new one that corresponds to the difference.
 I built a currency system that you can spend the coin to train units (the more coins are used, the stronger the trained units become)
+
 
 Balancing First vs Second Player
 
