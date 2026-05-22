@@ -1,4 +1,4 @@
-# Humans-vs-Monsters (Turn-Based Strategy Game)
+# Humans vs Monsters (Turn-Based Strategy Game)
 This is a turn based player vs player board game that compete to defeat the opponent's base.
 
 Features
